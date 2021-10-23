@@ -13,7 +13,6 @@ i'm learning Javascript, HTML, CSS, Bootstrap and React. Always trying to improv
 
 My desire it's to become a great fullstack dev.
 
-<br></br>
 
 <br></br>
 *I’m currently on career transition...*
