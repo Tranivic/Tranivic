@@ -1,6 +1,5 @@
  <h2>Hello, folks! <img src="https://c.tenor.com/9zmtHZ0tIjkAAAAi/nyancat-rainbow-cat.gif" height="20"></h2> 
 
-<br></br>
 
 I'm **Victor Trani** from Minas, but currently living in Rio, and i'm **25** years old.  😁
 
