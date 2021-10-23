@@ -15,8 +15,6 @@ My desire it's to become a great fullstack dev.
 
 <br></br>
 
-⚡Important Fact⚡: i love technology, since i'm a kid,
-
 <br></br>
 *I’m currently on career transition...*
 <br></br>
