@@ -1,16 +1,15 @@
-### Hi there 👋
+## **Hi, friend!** 👋
 
-<!--
-**A-uvic/A-uvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Victor Trani** from Rio, and i'm 25 years old.  😁
 
-Here are some ideas to get you started:
+💻 **I'm currently searching for my first job as a dev**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i decided to start learn programing recently, and at the moment i'm focusing in learn front-end and complete my university.
+
+If you are a employer, feel free to contact me on [likedin](https://www.linkedin.com/in/victor-martins-t/)!📫
+
+i'm learning Javascript, HTML, CSS and trying to improve my logic skills.
+
+My actual desire it's to become a great fullstack dev.
+
+⚡  Fun Fact: I always loved programming but didn't know it yet.  😂
