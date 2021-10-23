@@ -1,4 +1,4 @@
-## **Hi, friend!** 👋
+<h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 
 I'm **Victor Trani** from Rio, and i'm 25 years old.  😁
 
@@ -11,3 +11,5 @@ If you are a employer, feel free to contact me on [likedin](https://www.linkedin
 i'm learning Javascript, HTML, CSS, Bootstrap and React. Always trying to improve my skills.
 
 My actual desire it's to become a great fullstack dev.
+
+
