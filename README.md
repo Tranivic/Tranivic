@@ -1,6 +1,6 @@
  <h2>Hello, folks! <img src="https://c.tenor.com/9zmtHZ0tIjkAAAAi/nyancat-rainbow-cat.gif" height="20"></h2> 
 
-
+<br></br>
 
 I'm **Victor Trani** from Minas, but currently living in Rio, and i'm **25** years old.  😁
 
@@ -14,15 +14,13 @@ i'm learning Javascript, HTML, CSS, Bootstrap and React. Always trying to improv
 
 My desire it's to become a great fullstack dev.
 
-
+<br></br>
 
 ⚡Important Fact⚡: i love technology, since i'm a kid,
 
-
-
+<br></br>
 *I’m currently on career transition...*
-
-
+<br></br>
 
 <h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/npentrel/octoclippy2/master/gifs/ears.gif" width="30"></h3>
 <p align="left"> 
@@ -38,14 +36,14 @@ My desire it's to become a great fullstack dev.
 </p>
 
 
-
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <div>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:victor.trani1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
-
+<br></br>
 
 <div>
   <a href="https://github.com/A-uvic">
@@ -53,6 +51,7 @@ My desire it's to become a great fullstack dev.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-uvic&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
+<br></br>
+<br></br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-A-uvic&color=ff69b4&style=flat&label=visitors)
