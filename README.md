@@ -1,4 +1,4 @@
- <h1>Hello Folks!<img src="https://c.tenor.com/GO77-LvOh9oAAAAi/cat-rainbow.gif" width="60"></h1> 
+ <h1>Hello Folks!<img src="https://c.tenor.com/GO77-LvOh9oAAAAi/cat-rainbow.gif" width="50"></h1> 
 
 I'm **Victor Trani** from Rio, and i'm 25 years old.  😁
 
