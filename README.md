@@ -1,4 +1,4 @@
-<h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2>Hello world!<img src="https://c.tenor.com/-B81ztWwYAYAAAAi/covid-hi.gif" width="50"></h2> 
 
 I'm **Victor Trani** from Rio, and i'm 25 years old.  😁
 
