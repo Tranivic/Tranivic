@@ -11,5 +11,3 @@ If you are a employer, feel free to contact me on [likedin](https://www.linkedin
 i'm learning Javascript, HTML, CSS and trying to improve my logic skills.
 
 My actual desire it's to become a great fullstack dev.
-
-⚡  Fun Fact: I always loved programming but didn't know it yet.  😂
