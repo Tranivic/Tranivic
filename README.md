@@ -3,7 +3,7 @@
 
 I'm **Victor Trani** from Minas, but currently living in Rio. I'm **25** years old.  😁
 
-💻 **I'm currently searching for my first job as a dev**
+💻 **I'm searching for my first job as a dev**
 
 i decided to start learn programing recently, and at the moment i'm focusing in learn front-end development and conclude my university.
 
