@@ -1,4 +1,4 @@
- <h2>Hello there, and welcome to my github</h2>
+ <h2>Hi there, and welcome to my Github</h2>
 
 
 I'm **Victor Trani** from Minas, but currently living in Rio. I'm **25** years old.  😁
