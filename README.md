@@ -28,6 +28,7 @@ My desire it's to become a great fullstack dev.
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> </a>
+ <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">My social networks:</h3>
@@ -35,6 +36,7 @@ My desire it's to become a great fullstack dev.
   <a href="https://www.linkedin.com/in/victor-martins-t/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:victor.trani1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://wa.me/5521987638760"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
  </div>
 
 <br></br>
