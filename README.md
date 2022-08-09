@@ -1,7 +1,7 @@
  <h2>Hi there, welcome to my Github</h2>
 
 
-I'm **Victor Trani** from Minas, but currently living in Rio. I'm **25** years old.  😁
+I'm **Victor Trani** from Minas, but currently living in Rio. I'm **26** years old.  😁
 
 💻 **I'm searching for my first job as a dev**
 
