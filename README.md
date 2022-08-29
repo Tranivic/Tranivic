@@ -42,8 +42,4 @@ My desire it's to become a great fullstack dev.
 
 <br></br>
 
-
-<br></br>
-<br></br>
-
 ![](https://komarev.com/ghpvc/?username=your-github-A-uvic&color=ff69b4&style=flat&label=visitors)
