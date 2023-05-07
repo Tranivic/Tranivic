@@ -2,17 +2,13 @@
 
 
 I'm **Victor Trani** from Minas, but currently living in Rio. I'm **26** years old.  😁
-
 💻 **I'm searching for my first job as a dev**
-
 i decided to start learn programing, and at the moment i'm focusing in learn front-end frameworks and conclude my university.
-
 If you are a employer, feel free to contact me on [likedin](https://www.linkedin.com/in/victor-martins-t/)!📫
-
 i got familiarity whit javascript, vue, nuxt and sass.
-
 My desire it's to become a great fullstack dev.
 
+https://victortrani.dev
 
 <br></br>
 *I’m currently on career transition...*
