@@ -1,23 +1,19 @@
  <h2>Hi there, welcome to my Github</h2>
 
 
-I'm **Victor Trani** from Minas, but currently living in Rio. I'm **26** years old.  😁
+I'm **Victor Trani** from Minas, but currently living in Rio. I'm **27** years old.  😁
 
-💻 **I'm searching for my first job as a dev**
+💻 **I'm currently working as a dev**
 
-i decided to start learn programing, and at the moment i'm focusing in learn front-end frameworks and conclude my university.
+I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree.
 
 If you are a employer, feel free to contact me on [likedin](https://www.linkedin.com/in/victor-martins-t/)!📫
 
-i got familiarity whit javascript, vue, nuxt and sass.
+I am familiar with JavaScript, Vue, Nuxt, and Sass.
 
-My desire it's to become a great fullstack dev.
+My goal is to become a great full-stack developer.
 
 https://victortrani.dev
-
-<br></br>
-*I’m currently on career transition...*
-<br></br>
 
 <h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/npentrel/octoclippy2/master/gifs/ears.gif" width="30"></h3>
 <p align="left"> 
