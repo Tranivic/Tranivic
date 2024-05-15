@@ -5,11 +5,11 @@ I'm **Victor Trani** from Minas, but currently living in Rio. I'm **27** years o
 
 💻 **I'm currently working as a dev**
 
-I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree.
+I'm focusing on learning front-end vue/nuxt ecosystem and improving my back end skills.
 
 If you are a employer, feel free to contact me on [likedin](https://www.linkedin.com/in/victor-martins-t/)!📫
 
-I am familiar with JavaScript, Vue, Nuxt, and Sass.
+I am familiar with JavaScript, Typescript, Vue, Nuxt and Node.
 
 My goal is to become a great full-stack developer.
 
